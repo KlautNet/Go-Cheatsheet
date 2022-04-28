@@ -1,1 +1,1 @@
-# Personal GoLang Cheatsheet 
+# GoLang Cheatsheet 
